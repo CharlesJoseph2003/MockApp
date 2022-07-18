@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mock App</string>
+    <string name="results">Click for Results</string>
+    <string name="textview">Results:</string>
+    <string name="positive">The diagnosis is positive for COVID-19.</string>
+    <string name="negative">The diagnosis is negative for COVID-19.</string>
+</resources>
